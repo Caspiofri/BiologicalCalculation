@@ -1,0 +1,12 @@
+Explanation:
+This program generates and evaluates functions based on the given states and outputs. 
+Each function maps pairs of activator and repressor states to binary outputs (0 or 1). 
+
+The program performs the following tasks:
+* Generate Functions: It creates all possible functions that map each pair of activator and repressor states to a binary output.
+* Filter Functions: It filters functions based on the following criteria:
+* Monotonic Increasing: The output should not decrease as the activator state increases.
+* Monotonic Decreasing: The output should not increase as the repressor state increases.
+* Condition Compliance: Functions must return 1 for all activators set to "All" and repressors set to "None", and return 0 for all activators set to "None" and repressors set to "All".
+* Evaluate Functions for Genes: For each gene, it checks if the gene's activator and repressor states match the function's conditions and records the corresponding output.
+* Generate and Save Output: It generates a table of outputs for each function and gene, and saves this table to a CSV file.
