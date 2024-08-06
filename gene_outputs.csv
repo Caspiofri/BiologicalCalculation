@@ -1,0 +1,19 @@
+Function,Gene1,Gene2,Gene3,Gene4,Gene5,Gene6,Gene7,Gene8,Gene9
+Function 0,1,1,0,1,1,1,1,1,1
+Function 1,1,1,0,1,1,0,1,1,1
+Function 2,1,1,0,1,1,0,1,1,0
+Function 3,1,0,0,1,1,1,1,1,1
+Function 4,1,0,0,1,1,0,1,1,1
+Function 5,1,0,0,1,1,0,1,1,0
+Function 6,1,0,0,1,0,0,1,1,1
+Function 7,1,0,0,1,0,0,1,1,0
+Function 8,1,0,0,1,0,0,1,0,0
+Function 9,0,0,0,1,1,1,1,1,1
+Function 10,0,0,0,1,1,0,1,1,1
+Function 11,0,0,0,1,1,0,1,1,0
+Function 12,0,0,0,1,0,0,1,1,1
+Function 13,0,0,0,1,0,0,1,1,0
+Function 14,0,0,0,1,0,0,1,0,0
+Function 15,0,0,0,0,0,0,1,1,1
+Function 16,0,0,0,0,0,0,1,1,0
+Function 17,0,0,0,0,0,0,1,0,0
