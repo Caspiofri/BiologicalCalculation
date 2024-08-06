@@ -1,11 +1,11 @@
 # BiologicalCalculation
 a git repo for Biological Calculation course program
 
-Prerequisites
+# Prerequisites:
 Ensure you have Python installed. This script uses Python’s standard libraries and the tabulate library. Install tabulate using pip if it's not already installed:
 "pip install tabulate"
 
-Running the Program
+# Running the Program:
 1. Save the Script: Save the provided Python script as main.py.
 2. Run the Script: Execute the script using Python:
    "python main.py"
